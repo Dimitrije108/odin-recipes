@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(37, 36, 36);
+    color: white;
+    text-align: center;
+    font-family: Raleway, Calibri, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: "Lobster Two", Calibri, Tahoma, sans-serif;
+    font-size: 62px;
+    color: rgb(255, 227, 71)
+}
+
+ul { 
+	display: inline-block; 
+	text-align: left;
+	}
+
+ol { 
+	display: inline-block; 
+	text-align: left;
+	}
+
+img {
+    height: auto;
+    width: 800px;
+}
